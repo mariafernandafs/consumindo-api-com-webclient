@@ -1,6 +1,6 @@
 ## Desafio WebClient - Consumo de API Rick and Morty
 
-Este projeto é uma aplicação Spring Boot que consome a API Rick and Morty usando o WebClient. O objetivo é demonstrar como configurar e utilizar o WebClient para realizar requisições a uma API externa e processar suas respostas.
+Este projeto é uma aplicação Spring Boot que consome a [API Rick and Morty](https://rickandmortyapi.com) usando o WebClient. O objetivo é demonstrar como configurar e utilizar o WebClient para realizar requisições a uma API externa e processar suas respostas.
 
 ### Tecnologias Utilizadas
 
